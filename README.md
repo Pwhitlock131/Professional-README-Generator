@@ -34,8 +34,7 @@ Create professional and detailed README.md files effortlessly with this command 
 
 ## Images
 
-
-
+![Alt text](<Untitled_ Jan 7, 2024 2_40 PM.gif>)
 
 ## Links
 GitHub Repo: https://github.com/Pwhitlock131/Professional-README-Generator
