@@ -32,9 +32,8 @@ THEN I am taken to the corresponding section of the README
 ## Description
 Create professional and detailed README.md files effortlessly with this command line tool powered by Node.js and Inquirer. This README.md generator streamlines the documentation process by prompting users through a series of questions, allowing them to provide essential details about their projects. From repository names and descriptions to installation instructions, usage guides, and license selection, our user-friendly interface ensures that every aspect of your project is captured. Say goodbye to manual README creation and embrace the simplicity and efficiency of our generator for a polished and standardized documentation experience.
 
-## Images
-
-![Alt text](<Untitled_ Jan 7, 2024 2_40 PM.gif>)
+## Recording 
+https://drive.google.com/file/d/1s-d2l2CBVmLM7Bs48dTc20nviL3cBITw/view?usp=sharing
 
 ## Links
 GitHub Repo: https://github.com/Pwhitlock131/Professional-README-Generator
